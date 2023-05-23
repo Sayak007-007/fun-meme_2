@@ -1,0 +1,21 @@
+body{
+    background-color: #65647C;
+}
+
+.meme{
+    border: 10px solid yellow;
+    width: 100%;
+}
+
+h1{
+    text-transform:uppercase ;
+    font-size: 3rem;
+}
+
+.Poster{
+    width: 50%;
+    margin-left: 25%;
+    color: #C7BCA1;
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+}
